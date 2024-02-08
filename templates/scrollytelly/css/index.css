@@ -34,11 +34,11 @@ body {
   box-shadow: -0.5rem 0 1rem rgba(0, 0, 0, 0.5);
   border: 1px solid gray;
   border-radius: 0.5rem;
-  pointer-events: initial;
+  pointer-events: all;
 
   width: 25rem;
 
-  background-color: white;
+  background-color: white ;
   color: black;
 }
 
